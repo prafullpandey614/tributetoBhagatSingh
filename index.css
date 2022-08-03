@@ -9,6 +9,7 @@ nav{
     font-family: 'Open Sans', sans-serif;
     padding: 0.6rem;
     text-align: center;
+    width: 100%;
 }
 #header {
     text-align: center;
