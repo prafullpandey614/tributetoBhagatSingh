@@ -1,0 +1,115 @@
+*{
+ margin: 0;
+ padding: 0%;
+
+}
+nav{
+    background-color: black;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    padding: 0.6rem;
+    text-align: center;
+}
+#header {
+    text-align: center;
+    padding:0 1rem;
+    padding-top: 1rem;
+    font-size: 3rem;
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;
+}
+#header i{
+    top: 0;
+    font-size: 1rem;
+    font-weight: normal;
+    text-align: center;
+
+}
+body{
+    background-color: aliceblue;
+}
+.container{
+    /* border: 2px solid black; */
+    background-color: white;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    padding: 2rem;
+}
+.container img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    border: 2px solid black;
+    border-radius: 1rem;
+}
+.container i{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    font-size: 1rem;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.achievment{
+    /* border: 2px solid black; */
+    /* background-color: white; */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 90%;
+    font-size: 2rem;
+    padding: 2rem;
+    font-family: 'Open Sans', sans-serif;
+
+}
+.list{
+    /* border: 2px solid black; */
+    /* background-color: white; */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    width: 90%;
+    font-size: 4rem;
+    padding: 1rem  6rem ;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+.list ul{
+    font-size: 1rem;
+   
+}
+.list ul li .order{
+    padding: 0 2rem;
+}
+h4{
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    font-weight: 600;
+    text-decoration: none;
+
+    
+}
+h4 a{
+    text-decoration: none;
+}
+.poem{
+    font-family: 'Open Sans', sans-serif;
+    padding: 1rem 8rem;
+    text-align: center;
+}
+footer{
+    font-family: 'Open Sans', sans-serif;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+    margin-top: 5rem;
+}
